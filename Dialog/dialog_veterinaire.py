@@ -1,4 +1,4 @@
-#jean Christ-Dawens
+#jean Christ-Dawens.
 # Pour le gestionnaire d'événement
 from PyQt5.QtCore import pyqtSlot
 # Importer la boite de dialogue
